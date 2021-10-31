@@ -1,26 +1,27 @@
 ## Project_4-Prediction_of_Heart_Disease
 ### Description
 ### Context
-Explore and find any other trends in heart data to predict certain cardiovascular events or find any clear indications of heart health.
+Body fat prescription
+### Null Hypothesis: 
+There is no relationship between the percentage of body fat for an individual and the body density.
 
-Heart disease.
-### Null hypothesis:
-There is no relationship between the heart laboratory variables and heart disease, cardiovascular events or heart health.
-The "heart disease" field refers to the presence of heart disease in the patient
-
-Attribute Information:
-1.	age
-2.	sex
-3.	chest pain type (4 values)
-4.	resting blood pressure
-5.	serum cholestoral in mg/dl
-6.	fasting blood sugar > 120 mg/dl
-7.	resting electrocardiographic results (values 0,1,2)
-8.	maximum heart rate achieved
-9.	exercise induced angina
-10.	oldpeak = ST depression induced by exercise relative to rest
-11.	the slope of the peak exercise ST segment
-12.	number of major vessels (0-3) colored by flourosopy
-13.	Heart disease: 0 = health, 1 = heart disease
+### Content
+The variables listed below, from left to right, are:
+1.	Density determined from underwater weighing
+2.	Percent body fat from Siri's (1956) equation (class variable)
+3.	Age (years)
+4.	Weight (lbs)
+5.	Height (inches)
+6.	Neck circumference (cm)
+7.	Chest circumference (cm)
+8.	Abdomen 2 circumference (cm)
+9.	Hip circumference (cm)
+10.	Thigh circumference (cm)
+11.	Knee circumference (cm)
+12.	Ankle circumference (cm)
+13.	Biceps (extended) circumference (cm)
+14.	Forearm circumference (cm)
+15.	Wrist circumference (cm)
+(Measurement standards are apparently those listed in Benhke and Wilmore (1974), pp. 45-48 where, for instance, the abdomen 2 circumference is measured "laterally, at the level of the iliac crests, and anteriorly, at the umbilicus".)
 
 
