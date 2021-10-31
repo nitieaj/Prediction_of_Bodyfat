@@ -1,7 +1,7 @@
 ## Project_4-Prediction_of_Heart_Disease
 ### Description
 Context
-See if you can find any other trends in heart data to predict certain cardiovascular events or find any clear indications of heart health.
+Explore and find any other trends in heart data to predict certain cardiovascular events or find any clear indications of heart health.
 
 Heart disease.
 ### Null hypothesis:
