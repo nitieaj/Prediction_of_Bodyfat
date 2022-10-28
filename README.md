@@ -1,4 +1,4 @@
-## Project-2_Prediction_of_bodyfat
+## Prediction_of_bodyfat
 ### Description
 ### Context
 Body fat prescription
